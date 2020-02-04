@@ -1,0 +1,11 @@
+setup admin
+open game for clients
+start game
+phase ended
+ - triggered at set times
+villager voted
+ - triggered by player
+villager executed
+ - triggered at set times if enough villagers voted
+game ended
+ - 
